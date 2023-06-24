@@ -157,7 +157,10 @@ const Header = () => {
                       </>
                     );
                   })}
+
+                  {/* total not found */}
                   <p className="text-center">Total :₹ {price}</p>
+                  
                 </tbody>
               </Table>
             </div>
