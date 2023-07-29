@@ -1,2 +1,2 @@
 Hosted Link :
-https://64c5312a61f7c97a2f30c876--fabulous-meerkat-eb1048.netlify.app/
+https://64c534cca10503028f091c66--storied-cupcake-67a346.netlify.app/
