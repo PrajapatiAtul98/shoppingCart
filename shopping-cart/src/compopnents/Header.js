@@ -71,7 +71,7 @@ const Header = () => {
               Home
             </NavLink>
             <NavLink to="/home" className="text-decoration-none text-light mx-3"  onClick={SignOutFn}>
-              Log out
+              
             </NavLink>
           </Nav>
 

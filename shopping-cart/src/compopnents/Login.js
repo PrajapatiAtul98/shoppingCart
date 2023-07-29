@@ -37,7 +37,7 @@ const Login = () => {
         />
         <h2>🍉🍇Welcome to AP's FoodyKart 🍕🌮</h2>
         <button onClick={signIn}> 
-        <GoogleIcon style={{color:"white"}} className="mb-1"/>
+        {/* <GoogleIcon style={{color:"white"}} className="mb-1"/> */}
         Login with Google
         </button>
       </div>
